@@ -23,7 +23,9 @@ Instagram desktop portable app for windows. Built with Electron,Instagram-privat
  - Support Proxy(http/https)
 
 Download App here https://github.com/kingbotss/igportable/releases/
-
+### download
+download media,followers, following data.(paid)
+<img src="download%20data.png" width="300" height="300"/>
 
 ### Legal
 
