@@ -19,6 +19,7 @@ Instagram desktop portable app for windows. Built with Electron,Instagram-privat
  - Download image
  - Play and Download Video/Reel
  - View followers/following
+ - View Likers
  - Search TAG/USER/LOCATION
  - Support Proxy(http/https)
 
